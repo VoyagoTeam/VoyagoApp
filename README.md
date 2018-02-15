@@ -1,8 +1,11 @@
 # VoyagoApp
 Peer to Peer Shipping
-Thanks for your interest in Voyago! Peer to peer shipping is here.
+Thanks for your interest in Voyago! Peer to peer shipping is here. Try Voyago, ship from your smart-phone
+Google Play Store: https://tinyurl.com/y8qvavod
 
-Voyago is super simple to use when compared to other shipping sites. Our team has compiled everything that goes into sending a package from one part of the world to the next. You can easily send a parcel with a few simple steps on our app and finding someone to deliver the goods. For the more ambitious of you, you're able to deliver customers packages with a smart-phone and of course our Voyago app. don't forget to dust that bike off or get your car ready.
+Voyago is super simple to use when compared to other shipping sites. Our team has compiled everything that goes into sending a package from one part of the world to the next. You can easily send a parcel with a few simple steps on our app and finding someone to deliver the goods. For the more ambitious of you, you're able to deliver customers packages with a smart-phone and of course our Voyago app. don't forget to dust that bike off or get your car ready. Want to learn more about Shipping and Delivery? Watch a quick Youtube vid:
+SEND: www.youtube.com/watch?v=hKVSLcAx7zs
+DELIVER: www.youtube.com/watch?v=c7Wi7p8zOHI&pbjreload=10
 
 The first step you want to do is ensure that you're not shipping anything illegal or prohibited. The airlines usually do a good job in telling you what we can and can't ship. Use their guidelines as an example.
 
@@ -15,6 +18,23 @@ After payment you've reached step 4. You're package isn't ready for shipment unt
 On to step 5.. Drop your package to the Voyago-er. You can also pay a bit extra to have them pick-up.  It could delay shipping times.
 
 That's all there is to it. Voyago makes it super simple to get your packages anywhere and fast. If you have tracking, you can view your shipment in real-time. Voyago is safe, secure, and most of all affordable.
+Also, since privacy is essential on your android phone.. make sure you have it as secure as possible.
+https://play.google.com/store/apps/details?id=org.torproject.android
+& 
+http://download.cnet.com/Orfox-Tor-Browser-for-Android/3000-2150_4-76465979.html
+&
+https://www.bestvpn.com/best-vpn-android/
+&
+https://www.androidauthority.com/how-to-encrypt-android-device-326700/
+&
+https://www.maketecheasier.com/best-firewall-apps-android/
+&
+https://www.androidauthority.com/best-antivirus-android-apps-269696/
+Overall good article to view https://itechhacks.com/use-deep-web-on-your-android/
+
+Learn how to use it here:
+SEND: www.youtube.com/watch?v=hKVSLcAx7zs
+DELIVER: www.youtube.com/watch?v=c7Wi7p8zOHI&pbjreload=10
 
 Voyago is peer to peer shipping. Supports shipping anywhere on the planet. Send a package, get tracking updates, trust your packages will arrive safely. You can also deliver packages and earn money.
 Voyago's free shipping app enables you to send/receive your stuff from anyone, anywhere, and anytime. Use your Internet connection and send away*. Send a parcel to friends & family with Voyago. Ship your loved ones anything using Voyago’s trusted peer to peer shipping network**. 
@@ -64,6 +84,8 @@ Items that cannot be carried on in your checked-in baggage include:
 Disabling and incapacitating chemicals, gases or sprays, such as mace, pepper or capsicum spray, tear gas, acid sprays. Animal-repellent sprays Billy clubs, leather billies, blackjacks Martial arts equipment such as knuckle dusters, clubs, coshes, rice flails and numchucks, kubatons, kubasaunts, night sticks and batons Ballistic knives and similar devices. Any item designed to discharge a projectile by means of an explosive or other propellant or mechanism, blow pipes, cross‑bows, spear guns, hunting slings, catapults, slingshots, bows and arrows Stun guns, cattle prods and tasers Dynamite, explosives (plastic or otherwise), blasting caps, blow‑torches, detonators, fuses and detonator cord, explosive flares in any form, grenades, mines and other explosive military stores, smoke cartridges Explosive flares in any form Smoke cartridges, Botoxins and infectious substances, eg. Preparations of anthrax spores Chemicals toxins, eg. chemical warfare agents. Household flammable goods. Aerosol containers, including spray paint, Petrol and any other flammable liquid Fireworks. Alcoholic beverages over 140 proof, Bang Snaps, Bear spray, Blasting Caps, Butane, CO2 Cartridge, Dynamite, Fertilizer, Fire Extinguishers and Other Compressed Gas Cylinders, Flammable Liquid, Flammable Gel, or Aerosol Paint, Fuels, Gas Torches, Hand Grenades, Liquid Bleach, Lithium batteries with more than 100 watt hours, Live Coral, Live Fish, Drugs (I.e. Marijuana, Cocaine, Heroin, etc..), Tear Gas.
 
 * PLEASE NOTE THIS LIST IS A GUIDELINE. TRANSPORTATION SERVICE HAS A FINAL SAY ON WHAT'S PERMISSIBLE OR NOT.*
+
+Get the app for FREE! https://tinyurl.com/y8qvavod
 
 We're Social!
 Facebook: www.facebook.com/voyagoapp/
